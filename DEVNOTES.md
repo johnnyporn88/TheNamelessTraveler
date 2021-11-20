@@ -6,4 +6,21 @@ These are just notes for the modlist developer. You don't have to look at it.
 
 [Rudy ENB SE](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=description) now requires Dynamic Volumetric Lighting and Sun Shadows.
 "Embers XD" and "Water for ENB" are a "hard requirement" for the 5.0 version of the preset.
-I am using Lux.
+
+LUX needs a ton of patches. Revisit later.
+-Install SMIM
+-Install RUGNAROK
+-Install PELTAPALOOZA
+-Install Ruin Clutters Improved
+-Install Embers HD
+
+WizKid Signs needs Lanterns of Skyrim to be installed.
+Also Books of Skyrim
+Also Interesting NPCs
+
+CC's HQ Roadsigns SSE needs Cutting Room Floor.
+Also Bruma
+
+Forges Match needs Embers HD.
+
+Better Dynamic Snow and Blended Roads need a patch.
