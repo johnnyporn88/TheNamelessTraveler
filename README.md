@@ -37,7 +37,7 @@ This modlist is currently built upon Skyrim Special Edition (SSE), **prior to th
 The mod author will not update this list to work with AE until certain [key mods](https://www.nexusmods.com/skyrimspecialedition/mods/32444) are updated to work with it as well.
 
 If you are new to Skyrim, or new to modding, you may already have installed Anniversary Edition.
-No worries, refer to [this section](#what-if-I-already-installed-Anniversary-Edition???) for roll-back instructions.
+No worries, refer to [this section](#what-if-i-already-installed-anniversary-edition) for roll-back instructions.
 
 ## Pre-Installation
 
