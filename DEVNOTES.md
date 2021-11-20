@@ -24,3 +24,9 @@ Also Bruma
 Forges Match needs Embers HD.
 
 Better Dynamic Snow and Blended Roads need a patch.
+
+Forgotten Retex Project has patch for Frostfall and Campfire.
+
+Revisit Embers HD installation.
+
+Install High Poly Project

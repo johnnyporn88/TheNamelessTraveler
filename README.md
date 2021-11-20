@@ -27,7 +27,22 @@ However, I will appreciate it if you could open a Github Issue documenting your 
 
 ## System Requirements
 
+As mentioned [above](#vision), the target performance is 30 FPS at 2560x1080.
 
+This will be evaluated based on the modlist author's system.
+If you have something better, expect better performance. If you have something less, expect worse.
+
+The author's system specifications are as follows:
+
+|Part   |Model                          |
+|:-----:|:-----------------------------:|
+|CPU    |AMD Ryzen 7 3700X 3.6GHz (OC)  |
+|RAM    |32 GB                          |
+|GPU    |Nvidia RTX 2080 Ti (OC)        |
+|MOBO   |ASUS ROG Crosshair VIII Formula|
+|Cooling|Custom open loop, 360mm rads   |
+|OS     |Windows 10                     |
+|Monitor|LG 34UC89G-B G-SYNC            |
 
 ## Requirements
 
