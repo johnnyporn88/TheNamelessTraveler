@@ -30,3 +30,9 @@ Forgotten Retex Project has patch for Frostfall and Campfire.
 Revisit Embers HD installation.
 
 Install High Poly Project
+
+Add note to README about reinstalling Faster HDT-SMP for AVX and CUDA compatibility.
+
+FranklyHD Miraak requires patch for Closefaced Helmets
+
+CC HQ Guard Shields requires patch for Helgen Reborn and Falskaar
